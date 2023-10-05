@@ -6,6 +6,7 @@ Some projects I've worked on:
 - MYOX(make your own X)
   - [js bundler](https://github.com/kakoc/myox_js_bundler) - [post about that](https://kakoc.blog/blog/myox-js-bundler/)
   - [youtube downloader](https://github.com/kakoc/youtube-downloader) - [post about that](https://kakoc.blog/blog/myox-youtube-downloader/)
+  - [full text search engine](https://kakoc.blog/blog/myox-ftse)
 
 
 My blog: https://kakoc.blog  
