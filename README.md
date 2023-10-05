@@ -3,7 +3,7 @@
 Some projects I've worked on:
 - [birdy](https://github.com/kakoc/birdy): Screenshot tool
 - [mongodb-migratior](https://github.com/kakoc/mongodb_migrator) Mongodb migrations management tool
-- MYOX(make your own X)
+- MYOX(make your own X)[about it](https://kakoc.blog/blog/myox/)
   - [js bundler](https://github.com/kakoc/myox_js_bundler) - [post about that](https://kakoc.blog/blog/myox-js-bundler/)
   - [youtube downloader](https://github.com/kakoc/youtube-downloader) - [post about that](https://kakoc.blog/blog/myox-youtube-downloader/)
   - [full text search engine](https://kakoc.blog/blog/myox-ftse)
