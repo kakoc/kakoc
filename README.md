@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Some projects I've worked on:
-- [birdy](https://github.com/kakoc/birdy): Screenshoting tool
+- [birdy](https://github.com/kakoc/birdy): Screenshot tool
 - [mongodb-migratior](https://github.com/kakoc/mongodb_migrator) Mongodb migrations management tool
 - MYOX(make your own X)
   - [js bundler](https://github.com/kakoc/myox_js_bundler) - [post about that](https://kakoc.blog/blog/myox-js-bundler/)
