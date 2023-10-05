@@ -8,7 +8,7 @@ Some projects I've worked on:
   - [youtube downloader](https://github.com/kakoc/youtube-downloader) - [post about that](https://kakoc.blog/blog/myox-youtube-downloader/)
 
 
-My blog: https://kakoc.github.io  
+My blog: https://kakoc.blog
 My Telegram channel: https://t.me/kakoc_thoughts
 
 <!--
